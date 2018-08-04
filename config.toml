@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Route Chicago"
+theme = "hugrid"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    title = "Route Chicago"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "Get the theme"
